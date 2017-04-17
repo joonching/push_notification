@@ -16,8 +16,8 @@ This is my Push Notification portion for final project in ECE 4574 at Virginia T
 2. Run the python script *send.py*
 `Python3 send.py {api_key} {registration_id}`
 
-## Image of Test + Virtual Phone##
-[Imgur](http://i.imgur.com/DVQKv4Q.png)
+## Image of Test + Virtual Phone ##
+<img src='http://i.imgur.com/DVQKv4Q.png' title='test image' width='' alt='test image' />
 
 
 ## Notes ##
