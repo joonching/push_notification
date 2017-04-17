@@ -21,6 +21,9 @@ The {api_key} and {registration_id} is provided with a word documented.
 The {registration_id} is currently the id for my virtual android device. 
 When the application gets fully implemented then the registration_id will start to change or get added to.
 
+If you want to see the actual application on a phone then you would have to run the Android Studio project and run the virtual phone
+As of now the test is getting run to my current Firebase cloud messaging server that reroutes the messages to my virtual phone. 
+
 ### Authors ###
 
 * Joshua Chung
