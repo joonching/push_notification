@@ -16,6 +16,10 @@ This is my Push Notification portion for final project in ECE 4574 at Virginia T
 2. Run the python script *send.py*
 `Python3 send.py {api_key} {registration_id}`
 
+## Image of Test + Virtual Phone##
+[Imgur](http://i.imgur.com/DVQKv4Q.png)
+
+
 ## Notes ##
 The {api_key} and {registration_id} is provided with a word documented.
 The {registration_id} is currently the id for my virtual android device. 
