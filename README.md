@@ -38,6 +38,7 @@ As of now the test is getting run to my current Firebase cloud messaging server 
 
 ### Edits ###
 1. Improved testing capability to more than one phone - therefore the image is out of date
+2. [After Submission 12:06 AM] My links to the FCM Automated Testing output expired so just uploaded the files instead (nexus_5,6,9)
 
 ### Authors ###
 
